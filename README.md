@@ -1,6 +1,6 @@
 # Submarine-Movement
 
-Project completed through Visual Basic Community 2017 on Windows 10.
+Project completed through Visual Basic Community 2017 on Windows 10. Date - October 2017
 
 Files used to get project working:
 	1) FreeGLUT MSVC Package found at http://www.transmissionzero.co.uk/software/freeglut-devel/
