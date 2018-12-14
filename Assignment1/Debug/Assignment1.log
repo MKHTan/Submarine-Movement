@@ -1,0 +1,32 @@
+﻿  main.c
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(31): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(171): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(177): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(178): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(184): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(185): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(191): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(193): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(199): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(205): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(206): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(212): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(214): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(223): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(225): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(226): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(274): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(275): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(277): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(282): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(283): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(285): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(310): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(311): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(315): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(316): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(324): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\matthew\documents\ryerson\cps511 computer graphics\assignment1\assignment1\assignment1\main.c(338): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  Assignment1.vcxproj -> C:\Users\Matthew\Documents\Ryerson\CPS511 Computer Graphics\Assignment1\Assignment1\Debug\Assignment1.exe
